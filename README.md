@@ -22,6 +22,8 @@ Requirements
     git
     golang
 
+android run command :
+pkg install git && git clone https://github.com/phuongkhpt/psiphon.git && clear && cd vss && chmod a+x tun && chmod a+x psiphon-tunnel-core && echo 'PATH="$PATH:$HOME/vss"' >> $HOME/.bashrc && source $HOME/.bashrc && echo 'PATH="$PATH:$HOME/vss"' >> $HOME/.zshrc && source $HOME/.zshrc && clear && cd
 
 Install
 -------
